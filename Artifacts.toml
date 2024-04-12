@@ -1,127 +1,127 @@
 [[OpenCL]]
 arch = "aarch64"
-git-tree-sha1 = "11dff7de7b89f38e0ae228668f3e38a76ba86b97"
+git-tree-sha1 = "04e4a25abc701f2f495c18e32492a066022559db"
 os = "macos"
 
     [[OpenCL.download]]
-    sha256 = "31271e5e8a11af7670fc63a8f9cf9cf83ba6c8e99e073112c7ae61b7c5f5429e"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2022.9.23+1/OpenCL.v2022.9.23.aarch64-apple-darwin.tar.gz"
+    sha256 = "41dc5c2055a766609dd3f078086b487f855ff16480fe64fa85f27607529a530c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2023.12.14+0/OpenCL.v2023.12.14.aarch64-apple-darwin.tar.gz"
 [[OpenCL]]
 arch = "aarch64"
-git-tree-sha1 = "f0c215976f026a1f6995c30891cc4cff2b4626d9"
+git-tree-sha1 = "8ae61e26711b7e075298ae120ae8da33c019eeac"
 libc = "glibc"
 os = "linux"
 
     [[OpenCL.download]]
-    sha256 = "e274e7a7aa9fadeb590b7f3da480ece845ee4a14383a743126ae622279e36588"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2022.9.23+1/OpenCL.v2022.9.23.aarch64-linux-gnu.tar.gz"
+    sha256 = "678ff4bdb14bf16b19a1f1fb68b7703db758a0dd41ba21a6fe41175b5d3131ef"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2023.12.14+0/OpenCL.v2023.12.14.aarch64-linux-gnu.tar.gz"
 [[OpenCL]]
 arch = "aarch64"
-git-tree-sha1 = "4a5a02a888c786ee2ff9ba980eb6f750cf964836"
+git-tree-sha1 = "f5a873060d4fa35cabcd443329403618d9945718"
 libc = "musl"
 os = "linux"
 
     [[OpenCL.download]]
-    sha256 = "fb6e8e4541e97db1494f49b7382ba3f70cfcb974000a15086b2a8d91406e20fd"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2022.9.23+1/OpenCL.v2022.9.23.aarch64-linux-musl.tar.gz"
+    sha256 = "9acc781b486cb1a09e2ef1aa4146cf56e3da5eaeb6f0db9d0d51211a5061093e"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2023.12.14+0/OpenCL.v2023.12.14.aarch64-linux-musl.tar.gz"
 [[OpenCL]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "ab70a84efcc5bb2fd46308ea0e2f761cc71fdd25"
+git-tree-sha1 = "dd8e7fcf031d179f20e14e34d94c393b8bf4746c"
 libc = "glibc"
 os = "linux"
 
     [[OpenCL.download]]
-    sha256 = "3c8adc2ae411af4d4fba79f28d06816309fcfe767a594f4ad3884178047f02cf"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2022.9.23+1/OpenCL.v2022.9.23.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "d52f5d64630532ce240163c903b1f573d4848875eab0f31c50d5452a606888fc"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2023.12.14+0/OpenCL.v2023.12.14.armv6l-linux-gnueabihf.tar.gz"
 [[OpenCL]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "37c1f4f900128d42597359cbf7b7de8687e1ea43"
+git-tree-sha1 = "11642a8b72480d6941318fba2ee5c579fe21890d"
 libc = "musl"
 os = "linux"
 
     [[OpenCL.download]]
-    sha256 = "be1887d8929d0c41d7a03231d2c10cacc853b642d6b8e3029f75bcd50531dea6"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2022.9.23+1/OpenCL.v2022.9.23.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "f00801538448b288eafad3836115ea78fb7c828d49434edceaafc1f43dcc908f"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2023.12.14+0/OpenCL.v2023.12.14.armv6l-linux-musleabihf.tar.gz"
 [[OpenCL]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "69b4d7154d4bc32fc86a2b7c1eb9ad952aa597eb"
+git-tree-sha1 = "2928cf23f43cddeefae82a72190d352e626583eb"
 libc = "glibc"
 os = "linux"
 
     [[OpenCL.download]]
-    sha256 = "c6b187d33c51615b243c234cb8e985717940e16a0a5f5cfffb137c3767a06650"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2022.9.23+1/OpenCL.v2022.9.23.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "82080dae90dbb4f36504a4a6c05e24aa11ede0e0f7f2a8b51192fdfb44045d50"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2023.12.14+0/OpenCL.v2023.12.14.armv7l-linux-gnueabihf.tar.gz"
 [[OpenCL]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "6656fe24c1202ff4465dddde7118f15103e6be84"
+git-tree-sha1 = "9c443583e5a45d0157a9765f8fe09483048909e7"
 libc = "musl"
 os = "linux"
 
     [[OpenCL.download]]
-    sha256 = "f012c6fc531253cb10347942b5e505dace8cf1f239276d0a58fb0f7dced040c0"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2022.9.23+1/OpenCL.v2022.9.23.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "58ec7e182339520ad55e4b3a660806109f3b599d4c88414d6a316dc5e19f6844"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2023.12.14+0/OpenCL.v2023.12.14.armv7l-linux-musleabihf.tar.gz"
 [[OpenCL]]
 arch = "i686"
-git-tree-sha1 = "ae13a8f405d0ba50d66d2d582f26475b22ed3dca"
+git-tree-sha1 = "568abce3eb0baa528a34d5dac1a8742e63974bff"
 libc = "glibc"
 os = "linux"
 
     [[OpenCL.download]]
-    sha256 = "80bcb93bdfa02979c8d93a87480334edb9b4fb258a784b1d60bd3f30bf3b2956"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2022.9.23+1/OpenCL.v2022.9.23.i686-linux-gnu.tar.gz"
+    sha256 = "fb368ead944ec528b8d6cf96b2fc1cc1d0c9088c4bf9f8f79f9fdd4f68eb8ef6"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2023.12.14+0/OpenCL.v2023.12.14.i686-linux-gnu.tar.gz"
 [[OpenCL]]
 arch = "i686"
-git-tree-sha1 = "605114c54d8128766c687925423f0caa925962ed"
+git-tree-sha1 = "bc987a3caa04bd9869e9ae78ea31d5195c4e8496"
 libc = "musl"
 os = "linux"
 
     [[OpenCL.download]]
-    sha256 = "57ca72d1a84fdd4ea29d9ece6ba0680483ce66d319ca65f2388e3a3f06f896bf"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2022.9.23+1/OpenCL.v2022.9.23.i686-linux-musl.tar.gz"
+    sha256 = "ed02c80fdb94474cbde7530e32a7dc4fa2a78a46deaf8bd0d6f218738490b03f"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2023.12.14+0/OpenCL.v2023.12.14.i686-linux-musl.tar.gz"
 [[OpenCL]]
 arch = "powerpc64le"
-git-tree-sha1 = "8dada952ff3b8162cbf6a9218130f891b331419d"
+git-tree-sha1 = "290d6638f8b76b448c3726e344635a2c4da382a4"
 libc = "glibc"
 os = "linux"
 
     [[OpenCL.download]]
-    sha256 = "972c6ff6663bd55603fa632498c1d73e213a777b0555a5d111f9bb47afcdaefa"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2022.9.23+1/OpenCL.v2022.9.23.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "4c9b4d02f4fca35b48e37d3b6e16e65f0dd0c41e4152419abfa86452aef90054"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2023.12.14+0/OpenCL.v2023.12.14.powerpc64le-linux-gnu.tar.gz"
 [[OpenCL]]
 arch = "x86_64"
-git-tree-sha1 = "03fc562e9c69fedb3693d0208ec7ac99f8b4afbc"
+git-tree-sha1 = "6bf23195ed42b12e0234e37be298a4571d753c97"
 os = "macos"
 
     [[OpenCL.download]]
-    sha256 = "44379d9300a0936c019f25f0a68483d231f91ffee70ca7e7d7b71b861dee498c"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2022.9.23+1/OpenCL.v2022.9.23.x86_64-apple-darwin.tar.gz"
+    sha256 = "af8e6c8c0e17da5e1b21172bbfb9529134db480863c49c9c250d1520758612c5"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2023.12.14+0/OpenCL.v2023.12.14.x86_64-apple-darwin.tar.gz"
 [[OpenCL]]
 arch = "x86_64"
-git-tree-sha1 = "f7bfc0eff76d18282497107dfa410e2ee35c536b"
+git-tree-sha1 = "113cdfb400110abbe4d925555e393c8501a9b71c"
 libc = "glibc"
 os = "linux"
 
     [[OpenCL.download]]
-    sha256 = "c42433aa60d67d41f334b41656ef5d377d94edea8f72050e7bdd1cf2821f3335"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2022.9.23+1/OpenCL.v2022.9.23.x86_64-linux-gnu.tar.gz"
+    sha256 = "e1d622cd46f3171f28a4687199ecd5524f19335d2349902ef7bbf7cb94526961"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2023.12.14+0/OpenCL.v2023.12.14.x86_64-linux-gnu.tar.gz"
 [[OpenCL]]
 arch = "x86_64"
-git-tree-sha1 = "4744df2b1f87ac32ff1cf3297def2bb6d3e4b9f2"
+git-tree-sha1 = "793055e5aea68f65e6446faec8b2c1637d67943b"
 libc = "musl"
 os = "linux"
 
     [[OpenCL.download]]
-    sha256 = "6f7da209685511f5e506ab22ddbf976fd261f444f0a5c339f32b8446b35e9251"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2022.9.23+1/OpenCL.v2022.9.23.x86_64-linux-musl.tar.gz"
+    sha256 = "334fda772dc9ff6afd76c720c090dd96bfb6b2f4697efa7e57a69dc99b0d4885"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2023.12.14+0/OpenCL.v2023.12.14.x86_64-linux-musl.tar.gz"
 [[OpenCL]]
 arch = "x86_64"
-git-tree-sha1 = "0731bd165b50468a5a5a5c700ed98075a0d53c08"
+git-tree-sha1 = "4063112fcf8b15463b2c995fedaa19feb878bacb"
 os = "freebsd"
 
     [[OpenCL.download]]
-    sha256 = "1a6dbfc851ee5f6bcb77caf34bc9c6623c7ba6a22633c4a6d6e2bde8805bcc06"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2022.9.23+1/OpenCL.v2022.9.23.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "34bf6e0c8556b846f67fedd7f072d438dd30e821af7eb8e7eed33eae2e08e7eb"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCL_jll.jl/releases/download/OpenCL-v2023.12.14+0/OpenCL.v2023.12.14.x86_64-unknown-freebsd.tar.gz"
