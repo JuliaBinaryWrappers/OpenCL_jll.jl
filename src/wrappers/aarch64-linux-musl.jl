@@ -12,4 +12,6 @@ function __init__()
     )
 
     JLLWrappers.@generate_init_footer()
+    global drivers = String[]
+
 end  # __init__()
