@@ -1,6 +1,6 @@
 name = "OpenCL_jll"
 uuid = "6cb37087-e8b6-5417-8430-1f242f1e46e4"
-version = "2024.5.8+1"
+version = "2024.10.24+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -10,5 +10,5 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
-Libdl = "1"
-Artifacts = "1"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
